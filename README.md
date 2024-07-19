@@ -30,6 +30,7 @@ dr_sdisc - сумма скидки на всю строку чека (даже �
 
 Результат запроса  
 ![image](https://github.com/anton2010000/ABC-analysis/assets/94874805/d884e7e8-5d68-43aa-8c97-91a8f4f4510d)
+
 1
 <image src="apteka1.jpg">
 2
